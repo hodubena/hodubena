@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Hope Odubena
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in AI and analytics
 - 🌱 I’m currently learning about data science through a master's program
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/hope-odubena/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I've won a couple eating contests
 
